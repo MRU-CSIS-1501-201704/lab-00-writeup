@@ -14,6 +14,7 @@
 ## In this lab, **you** will:
 
 * [ ] submit a BlueJ project with your course "handle" in it via GitHub.
+* [ ] remain calm.
 
 ---
 
